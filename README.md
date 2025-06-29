@@ -105,7 +105,7 @@
   </header>
 
   <main>
-    <p>Email me at: <strong>your.email@example.com</strong></p>
+    <p>Email me at: <strong>Uniquecreation7128@gmail.com</strong></p>
   </main>
 
   <footer>
